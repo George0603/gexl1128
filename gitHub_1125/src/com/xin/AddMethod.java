@@ -12,4 +12,8 @@ public class AddMethod {
 	public static int add(int x1, int x2){
 		return x1 + x2 ;
 	}
+	
+	public static int sub(int x1, int x2){
+		return x1 - x2 ;
+	}
 }
